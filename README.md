@@ -1,39 +1,39 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm njoetene wisdom 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="www.linkedin.com/in/njoetene-wisdom-693b8b345"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.instagram.com/njoetenewisdom?igsh=MXd1eDdwazl4bWhycA=="><img src="https://img.shields.io/badge/instagram-My_Channel-red?style=for-the-badge&logo=instagram"></a>
+  <a href="njoetenewisdom@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+As a Data Scientist, I bridge the gap between complex data and strategic business value. I specialize in turning messy, unstructured datasets into clear visual stories and predictive insights that drive profitability.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+My approach focuses on engineering scalable analytics pipelines, building intuitive dashboards that stakeholders actually use, and deploying machine learning models to help organizations proactively plan for the future.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy Solving in differnt field, Reading, Hiking, meditating Gods word. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website] njoetenewisdom002
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:** Designing an end-to-end MLOps pipeline using Python and GitHub Actions to automate the retraining and deployment of a customer churn predictive model. 
+- **Project B:** Developing an interactive, real-time demand forecasting dashboard in Power BI backed by an optimized SQL database to drive executive revenue decisions.
+- **Content Creation:** Writing technical deep-dives on Medium and GitHub documenting my transition from data analytics to machine learning engineering, focusing on clean code and model deployment.
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+MLOps & Cloud Infrastructure: Mastering model deployment and containerization using Docker, Kubernetes, and AWS (Amazon SageMaker) to transition models from notebooks to production.
 
+Deep Learning & Scalable Frameworks: Exploring neural network architectures with PyTorch and handling large-scale data processing using Apache Spark (PySpark).
 ## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
